@@ -19,3 +19,15 @@
 [Cursos de programación con bloques](https://learn.droneblocks.io/courses/291350/lectures/4483399)
 
 [Steam con drones](https://www.dji.com/es/products/steam)
+
+
+## Videos
+
+* [AI in a drone](https://www.youtube.com/watch?v=4KiH3Fq3olM)
+Damia Fuentes library: https://github.com/damiafuentes/DJITe...
+My Opensource so far: https://github.com/SEFDStuff/TelloTV
+
+
+[Face recognition in a drone](https://www.youtube.com/watch?v=esw88_gKOpA)
+Fly Lil Drone - Official Audio: https://youtu.be/cjmCGKK7-nA
+TelloTV Github Open Source Code: https://github.com/Jabrils/TelloTV
