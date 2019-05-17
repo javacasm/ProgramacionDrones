@@ -20,6 +20,12 @@
 
 [Steam con drones](https://www.dji.com/es/products/steam)
 
+## Programación con python
+
+https://github.com/dji-sdk/Tello-Python
+
+https://www.duckpage.com/blog/programming-tello-with-python
+
 
 ## Videos
 
